@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of vlssu/flarum-cravatar.** Not for installation: use [Packagist](https://packagist.org/packages/vlssu/flarum-cravatar) or the [upstream repository](https://github.com/vlssu/flarum-cravatar).
 
-**0** versions archived · Latest: [`v0.3.0`](https://github.com/flarchive/vlssu-flarum-cravatar/tree/archive/v0.3.0) · License: `MIT` · Flarum: `^1.2.0 || ^2.0.0`
+**7** versions archived · Latest: [`v0.3.0`](https://github.com/flarchive/vlssu-flarum-cravatar/tree/archive/v0.3.0) · License: `MIT` · Flarum: `^1.2.0 || ^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-10-31 | `^1.2.0` | [Browse](https://github.com/flarchive/vlssu-flarum-cravatar/tree/archive/v0.1.0) |
+| `v0.1.1` | 2022-11-01 | `^1.2.0` | [Browse](https://github.com/flarchive/vlssu-flarum-cravatar/tree/archive/v0.1.1) |
+| `v0.1.2` | 2023-07-25 | `^1.2.0` | [Browse](https://github.com/flarchive/vlssu-flarum-cravatar/tree/archive/v0.1.2) |
+| `v0.1.3` | 2023-07-25 | `^1.2.0` | [Browse](https://github.com/flarchive/vlssu-flarum-cravatar/tree/archive/v0.1.3) |
+| `v0.2.0` | 2024-04-26 | `^1.2.0` | [Browse](https://github.com/flarchive/vlssu-flarum-cravatar/tree/archive/v0.2.0) |
+| `v0.2.1` | 2024-05-07 | `^1.2.0` | [Browse](https://github.com/flarchive/vlssu-flarum-cravatar/tree/archive/v0.2.1) |
+| `v0.3.0` | 2026-01-19 | `^1.2.0 || ^2.0.0` | [Browse](https://github.com/flarchive/vlssu-flarum-cravatar/tree/archive/v0.3.0) |
 
 Catalog entry: [packages/vlssu-flarum-cravatar.json](https://github.com/flarchive/archive-index/blob/main/packages/vlssu-flarum-cravatar.json)
 
